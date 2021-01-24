@@ -3,4 +3,4 @@
 
 # deployment
 
-[heroku] (https://class01seid.herokuapp.com/)
+* [heroku](https://class01seid.herokuapp.com/)
