@@ -1,7 +1,7 @@
 {
   "name": "server-deployment-practice",
   "version": "1.0.0",
-  "description": "deploymrnt",
+  "description": "deployment",
   "main": "index.js",
   "scripts": {
     "test": "jest",
@@ -13,7 +13,7 @@
     "url": "git+https://github.com/Seidomo/server-deployment-practice.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Seid",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Seidomo/server-deployment-practice/issues"
